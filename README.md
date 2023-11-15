@@ -1,2 +1,2 @@
 # XMemer
-A twitter bot that tweets daily meme.
+A twitter bot that tweets daily meme (WIP)
